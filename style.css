@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #12d4e2;
+    color: #1607f1;
+  }
+  header {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  }
+  h1 {
+    color: #2c3e50;
+  }
+  section {
+    margin-top: 30px;
+  }
+  
